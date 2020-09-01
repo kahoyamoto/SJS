@@ -1,0 +1,161 @@
+body{
+  color: #333;
+  font-family: Verdana, sans-serif;
+  margin: 0;
+  background-color: #f3fdfd;
+}
+
+header {
+  background-color: #f3fdfd;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+.container {
+  background-image: linear-gradient(to right, #f6fdfd, #c6f7fc);
+  border-top-width: 4px;
+  border-top-style: solid;
+  border-top-color: #479da3;
+  border-bottom-width: 4px;
+  border-bottom-style: solid;
+  border-bottom-color: #479da3;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  align-items:center;
+}
+
+.midashi {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.item_1{
+  font-weight: normal;
+  font-size: 20px;
+  margin-top: 60px;
+  margin-bottom: 60px;  
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.item_1 h1 {
+  border-left: 8px solid #479da3;
+  border-bottom: 1px solid #479da3;
+  padding-left: 12px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.item_1 p {
+  line-height: 1.8;
+  margin-left: 12px;
+  margin-right: auto;
+}
+
+.item_2{
+  font-weight: normal;
+  font-size: 20px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.item_2 h1 {
+  border-left: 8px solid #479da3;
+  border-bottom: 1px solid #479da3;
+  padding-left: 12px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.item_2 p {
+  line-height: 1.8;
+  margin-left: 12px;
+  margin-right: auto;
+}
+
+/* span {
+  color: #fd5184;
+} */
+
+.mycheckbox {
+  padding-left: 15px;
+}
+
+.item_2_2 {
+  display: flex;
+}
+
+.icon_1 {
+  margin-left: 150px;
+  margin-top: 60px
+}
+
+.icon_2 {
+  margin-left: 30px;
+}
+
+.icon_3 {
+  margin-left: 40px;
+  margin-top: 120px
+}
+
+.item_3{
+  font-weight: normal;
+  font-size: 20px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.item_3 h1 {
+  border-left: 8px solid #479da3;
+  border-bottom: 1px solid #479da3;
+  padding-left: 12px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.item_3 p {
+  line-height: 1.8;
+  margin-left: 12px;
+  margin-right: auto;
+}
+
+.query {
+  font-size: 18px;
+  line-height: 1.8;
+  margin-left: 40px;
+  margin-right: auto;
+  background-color: #e3fafc;
+  border-radius: 50px/25px;
+  border-width: 4px;
+  border-style: solid;
+  border-color: #479da3;
+  width: 600px;
+  padding-left: 50px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+footer {
+  background-color: #f3fdfd; 
+  font-weight: normal;
+  font-size: 15px;
+  margin-top: 60px;
+  margin-bottom: 60px;  
+  width: 77%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.reference h1 {
+  font-size: 20px;
+}
